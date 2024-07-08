@@ -18,7 +18,7 @@ This project predicts employee salaries using machine learning models based on v
 
 1. Clone the repository:
    ```sh 
-   git clone https://github.com/VatsAmanJha/Salary-Prediction-Model.git
+   git clone https://github.com/Abhishek080203/Salary-Prediction-Model.git
    ```
 2. Navigate to the project directory and set up a virtual environment:
    ```sh
@@ -102,14 +102,14 @@ Predicts the salary based on the input features.
 
 ```json
 {
-    "SEX": "F",
-    "DESIGNATION": "Senior Analyst",
-    "AGE": 27,
-    "UNIT": "Marketing",
-    "LEAVES_REMAINING": 14,
-    "PAST_EXP": 3,
-    "YEAR_OF_EXPERIENCE": 2,
-    "RATINGS": 4
+    "SEX": "Male",
+    "DESIGNATION": "Senior Developer",
+    "AGE": 30,
+    "UNIT": "IT",
+    "LEAVES_REMAINING": 5,
+    "PAST_EXP": Software Engineer,
+    "YEAR_OF_EXPERIENCE": 5,
+    "RATINGS": 4.5
 }
 ```
 
@@ -117,7 +117,7 @@ Predicts the salary based on the input features.
 
 ```json
 {
-    "SALARY": 69643
+    "SALARY": $85000.0
 }
 ```
 
