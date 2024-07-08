@@ -107,7 +107,7 @@ Predicts the salary based on the input features.
     "AGE": 30,
     "UNIT": "IT",
     "LEAVES_REMAINING": 5,
-    "PAST_EXP": Software Engineer,
+    "PAST_EXP": "Software Engineer",
     "YEAR_OF_EXPERIENCE": 5,
     "RATINGS": 4.5
 }
@@ -117,7 +117,7 @@ Predicts the salary based on the input features.
 
 ```json
 {
-    "SALARY": $85000.0
+    "SALARY": "$85000.0"
 }
 ```
 
